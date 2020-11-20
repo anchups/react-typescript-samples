@@ -3,7 +3,7 @@
 [🇬🇧 English version](./readme.md)
 
 El objetivo de este proyecto es ofrecer un set de ejemplos simples, proporcionando una guía paso a paso
-para empezar a trabajar con React y TypeScript.
+para empezar a trabajar con React y TypeScript. Para probar Sonarcloud
 
 Hemos incorporado un set de ejemplos basados en hooks.
 
